@@ -1,2 +1,3 @@
 # php-chat
-chat
+
+- Too young, too simple, sometimes naive
