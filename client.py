@@ -17,7 +17,7 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 list_data = []
-url = 'http://XX.XX.XX.XX/server.php'
+url = 'http://12.34.56.78/server.php'
 
 
 def help():
